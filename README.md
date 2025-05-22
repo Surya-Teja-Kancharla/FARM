@@ -8,13 +8,7 @@ A full-stack web application designed to streamline the management of faculty da
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
-- [Project Architecture](#project-architecture)
-- [Getting Started](#getting-started)
-- [Feasibility Analysis](#feasibility-analysis)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+  
 ---
 
 ## Overview
